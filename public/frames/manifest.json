@@ -1,0 +1,9 @@
+{
+  "frameCount": 240,
+  "fps": 30,
+  "pattern": "/frames/frame_0001.jpg",
+  "firstFrame": "/frames/frame_0001.jpg",
+  "lastFrame": "/frames/frame_0240.jpg",
+  "source": "/video.mp4",
+  "sourceMtimeMs": 1778184292168.6135
+}
