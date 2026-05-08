@@ -30,7 +30,7 @@ function drawImageCover(img) {
   const width = window.innerWidth;
   const height = window.innerHeight;
 
-  const scale = Math.max(width / img.width, height / img.height / img.height)* 0.78;
+  const scale = Math.max(width / img.width, height / img.height / img.height)* 0.99;
 
   const x = width / 2 - img.width * scale / 2;
   const y = height / 2 - img.height * scale / 2;
